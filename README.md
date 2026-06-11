@@ -28,7 +28,7 @@ Place `.mcp.json` in the project root (or any parent directory that Claude Code 
     "rms": {
       "command": "python3",
       "args": [
-        "/home/afnscbrl/Claude/RMS-Runtime-Mobile-Security/mcp_rms_server.py"
+        "<PATH TO MCP SERVER>"
       ],
       "env": {
         "RMS_URL": "http://127.0.0.1:5491",
