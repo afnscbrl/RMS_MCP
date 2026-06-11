@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "rms": {
+      "command": "python3",
+      "args": [
+        "<PATH TO MCP SERVER>"
+      ],
+      "env": {
+        "RMS_URL": "http://127.0.0.1:5491",
+        "RMS_MCP_BUFFER": "500"
+      }
+    }
+  }
+}
